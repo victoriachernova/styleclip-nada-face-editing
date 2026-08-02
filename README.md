@@ -7,3 +7,4 @@ Several training strategies for the mapper network are explored, including laten
 The final model supports semantic editing of human faces into three target styles: anime portrait, zombie, and realistic vampire.
 
 ### Pipeline
+![Pipeline](images/pipeline.png)
