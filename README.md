@@ -8,3 +8,9 @@ The final model supports semantic editing of human faces into three target style
 
 ### Pipeline
 ![Pipeline](images/pipeline.png)
+
+## Installation
+The project is designed to run in **Google Colab**.
+
+
+## Repository Structure
