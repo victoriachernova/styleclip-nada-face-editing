@@ -65,5 +65,19 @@ styleclip-nada-face-editing/
 └── Experimental_Report.pdf
 ```
 ├── README.md
+
+## Usage
+
+### training.ipynb
+
+Used to train the mapper network using Directional CLIP Loss.
+
+### validation.ipynb
+
+Evaluates the trained mapper, computes validation losses and visualizes edited images.
+
+### inference.ipynb
+
+Applies pretrained mapper checkpoints to new latent codes and generates edited images.
 └── Experimental_Report.pdf
 ```
