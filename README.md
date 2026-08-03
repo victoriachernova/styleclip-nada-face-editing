@@ -93,11 +93,11 @@ Applies pretrained mapper checkpoints to new latent codes and generates edited i
 
 #### Zombie
 
-![Zombie](images/zombie_resuls.png)
+![Zombie](images/zombie_results.png)
 
 #### Vampire
 
-![Vampire](images/vampire_results.png)
+![Vampire](images/vampire_resuts.png)
 
 ### Training Loss
 
