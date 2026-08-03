@@ -64,7 +64,6 @@ styleclip-nada-face-editing/
 ├── README.md
 └── Experimental_Report.pdf
 ```
-├── README.md
 
 ## Usage
 
@@ -79,5 +78,45 @@ Evaluates the trained mapper, computes validation losses and visualizes edited i
 ### inference.ipynb
 
 Applies pretrained mapper checkpoints to new latent codes and generates edited images.
+
+## Results
+
+### Baseline
+
+![Baseline](images/baseline.png)
+
+### Qualitative Results
+
+#### Anime
+
+![Anime](images/anime_results.png)
+
+#### Zombie
+
+![Zombie](images/zombie_resuls.png)
+
+#### Vampire
+
+![Vampire](images/vampire_results.png)
+
+### Training Loss
+
+#### Anime
+
+![Anime](images/anime_loss.png)
+
+#### Zombie
+
+![Zombie](images/zombie_loss.png)
+
+#### Vampire
+
+![Vampire](images/vampire_loss.png)
+
+## Experimental Report
+
+A detailed description of all conducted experiments, training settings, hyperparameter analysis, and qualitative evaluation is available in the accompanying report:
+
+📄 **[experimental_evaluation.pdf](experimental_evaluation.pdf)**
 └── Experimental_Report.pdf
 ```
